@@ -1,0 +1,12 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.banner h1{
+    border-bottom: 2px solid #6e6d6d;
+    padding: 20px;    
+}
